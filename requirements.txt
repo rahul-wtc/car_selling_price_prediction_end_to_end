@@ -1,0 +1,5 @@
+kaggle cardekho --> car price prediction problem
+
+(1) create a new anaconda environment with python 3.7 --> condo create -n name_of_env python=3.7
+(2) open the new directory where our data is stored and open jupyter notebook from there through anaconda command
+(3)
